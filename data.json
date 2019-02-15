@@ -1,0 +1,55 @@
+{
+"basic":{
+"image":"down.png",
+"name":"Madhu",
+"email":"madhubabupamuu@gmail.com",
+"nuber":"+91-7036416837",
+"address":"pragati engineering college,suramplam."
+},
+"info":{
+  "career":"Energetic and passionate entry-level professional seeking a full-time janitorial position."
+},
+  "education":[
+    {
+  "instution":"Pragati college",
+  "degree":"b.tech",
+  "passout":"2021"
+  },
+
+  {
+   "instution":"APT college",
+   "degree":"diploma",
+  "passout":"2017"
+
+},
+
+{
+"instution":"AMG SCHOOL",
+"degree":"SSC",
+"passout":"2014"
+}
+],
+"Skills" :[
+  {
+  "title":"progamming languages",
+  "content":["c","java","webapplicatoins"]
+
+},
+
+{
+"title":"operating systems",
+"content":["windows","lunux"]
+
+},
+
+{
+"title":"Databases",
+"content":["indexDBD","mysql","oracle"]
+
+}
+
+
+]
+
+
+}

@@ -1,0 +1,47 @@
+.parent{
+  border: 2px solid #ff0000;
+  display: flex;
+  flex-direction:row;
+}  .leftchild{
+    border: 2px solid #ff0000;
+    margin: 1%;
+    padding: 1%;
+    width: 70%;
+    font-size: 25px;
+    word-wrap: break-word;
+  }
+  a{
+    color: orange;
+  }
+  h3,p{
+    colour
+  }
+
+  .leftchild img{
+    width:50%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:40%;
+    border: 2px solid black;
+  }
+
+.rightchild{
+  width:30;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 40%;
+  border: 2px solid red;
+
+}
+
+  .righttchild img{
+    width:40%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: 2px solid black;
+  }
+}
